@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\bin\Debug\Datadtpe-floatPoint.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\bin\Debug\Datadtpe-floatPoint.exe
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\bin\Debug\Datadtpe-floatPoint.pdb
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\obj\Debug\Datadtpe-floatPoint.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\obj\Debug\Datadtpe-floatPoint.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\obj\Debug\Datadtpe-floatPoint.exe
+C:\Users\mjed\source\repos\visual studio codes\Datadtpe-floatPoint\Datadtpe-floatPoint\obj\Debug\Datadtpe-floatPoint.pdb
