@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\bin\Debug\Literal_characters.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\bin\Debug\Literal_characters.exe
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\bin\Debug\Literal_characters.pdb
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\obj\Debug\Literal_characters.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\obj\Debug\Literal_characters.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\obj\Debug\Literal_characters.exe
+C:\Users\mjed\source\repos\visual studio codes\Literal_characters\Literal_characters\obj\Debug\Literal_characters.pdb
