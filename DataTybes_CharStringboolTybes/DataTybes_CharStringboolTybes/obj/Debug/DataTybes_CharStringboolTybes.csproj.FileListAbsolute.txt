@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\bin\Debug\DataTybes_CharStringboolTybes.exe.config
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\bin\Debug\DataTybes_CharStringboolTybes.exe
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\bin\Debug\DataTybes_CharStringboolTybes.pdb
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\obj\Debug\DataTybes_CharStringboolTybes.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\obj\Debug\DataTybes_CharStringboolTybes.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\obj\Debug\DataTybes_CharStringboolTybes.exe
+C:\Users\mjed\source\repos\visual studio codes\DataTybes_CharStringboolTybes\DataTybes_CharStringboolTybes\obj\Debug\DataTybes_CharStringboolTybes.pdb
