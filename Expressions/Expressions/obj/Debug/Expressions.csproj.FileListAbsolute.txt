@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\bin\Debug\Expressions.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\bin\Debug\Expressions.exe
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\bin\Debug\Expressions.pdb
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\obj\Debug\Expressions.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\obj\Debug\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\obj\Debug\Expressions.exe
+C:\Users\mjed\source\repos\visual studio codes\Expressions\Expressions\obj\Debug\Expressions.pdb
