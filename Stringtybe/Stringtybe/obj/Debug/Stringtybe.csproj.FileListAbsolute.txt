@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\bin\Debug\Stringtybe.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\bin\Debug\Stringtybe.exe
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\bin\Debug\Stringtybe.pdb
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\obj\Debug\Stringtybe.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\obj\Debug\Stringtybe.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\obj\Debug\Stringtybe.exe
+C:\Users\mjed\source\repos\visual studio codes\Stringtybe\Stringtybe\obj\Debug\Stringtybe.pdb
