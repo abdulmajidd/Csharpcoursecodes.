@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\bin\Debug\Assignments Operations.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\bin\Debug\Assignments Operations.exe
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\bin\Debug\Assignments Operations.pdb
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\obj\Debug\Assignments Operations.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\obj\Debug\Assignments Operations.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\obj\Debug\Assignments Operations.exe
+C:\Users\mjed\source\repos\visual studio codes\Assignments Operations\Assignments Operations\obj\Debug\Assignments Operations.pdb
