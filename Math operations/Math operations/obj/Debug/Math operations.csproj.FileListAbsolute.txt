@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\bin\Debug\Math operations.exe.config
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\bin\Debug\Math operations.exe
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\bin\Debug\Math operations.pdb
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\obj\Debug\Math operations.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\obj\Debug\Math operations.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\obj\Debug\Math operations.exe
+C:\Users\mjed\source\repos\visual studio codes\Math operations\Math operations\obj\Debug\Math operations.pdb
