@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\bin\Debug\increments-Decrements.exe.config
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\bin\Debug\increments-Decrements.exe
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\bin\Debug\increments-Decrements.pdb
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\obj\Debug\increments-Decrements.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\obj\Debug\increments-Decrements.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\obj\Debug\increments-Decrements.exe
+C:\Users\mjed\source\repos\visual studio codes\increments-Decrements\increments-Decrements\obj\Debug\increments-Decrements.pdb
