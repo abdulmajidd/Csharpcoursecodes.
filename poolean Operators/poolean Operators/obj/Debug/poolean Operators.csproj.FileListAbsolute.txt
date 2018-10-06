@@ -1,0 +1,7 @@
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\bin\Debug\poolean Operators.exe.config
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\bin\Debug\poolean Operators.exe
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\bin\Debug\poolean Operators.pdb
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\obj\Debug\poolean Operators.csprojAssemblyReference.cache
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\obj\Debug\poolean Operators.csproj.CoreCompileInputs.cache
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\obj\Debug\poolean Operators.exe
+C:\Users\mjed\source\repos\visual studio codes\poolean Operators\poolean Operators\obj\Debug\poolean Operators.pdb
