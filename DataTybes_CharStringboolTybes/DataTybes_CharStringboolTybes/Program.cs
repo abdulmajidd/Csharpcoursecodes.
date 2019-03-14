@@ -16,7 +16,7 @@ namespace DataTybes_CharStringboolTybes
             String mystring = "This is my character A value:";
             String yourstring = "and This is my character a value:";
             Console.WriteLine("{0} {1} {2} {3}", mystring, myVarvalue, yourstring, myvArvalue);
-                Console.ReadKey();
+            Console.ReadKey();
 ;           
             
 

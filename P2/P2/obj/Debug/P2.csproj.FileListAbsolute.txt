@@ -1,0 +1,7 @@
+C:\Csharpcoursecodes\P2\P2\bin\Debug\P2.exe.config
+C:\Csharpcoursecodes\P2\P2\bin\Debug\P2.exe
+C:\Csharpcoursecodes\P2\P2\bin\Debug\P2.pdb
+C:\Csharpcoursecodes\P2\P2\obj\Debug\P2.csprojAssemblyReference.cache
+C:\Csharpcoursecodes\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Csharpcoursecodes\P2\P2\obj\Debug\P2.exe
+C:\Csharpcoursecodes\P2\P2\obj\Debug\P2.pdb
